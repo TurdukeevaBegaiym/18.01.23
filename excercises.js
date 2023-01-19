@@ -32,6 +32,15 @@ let sheep = 12;
 let amount = (5 + 12) * 4 + 6 * 2;
 console.log (amount);
 
+let flowHeater = 2.4;
+let hourWork = 46;
+let rates = 2.44;
+let res = 2.4 * 2.44 * 46 + " сом ";
+console.log (res);
 
+let box = 12;
+let rate = 499;
+let payment = box  * rate + " сом ";
+console.log (payment);
 
 
